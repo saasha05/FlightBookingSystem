@@ -1,0 +1,11 @@
+#
+# create single user and log in with different capitalizing
+create userTEST test 8
+login usertest test
+quit
+*
+#
+Created user userTEST
+Logged in as usertest
+Goodbye
+*

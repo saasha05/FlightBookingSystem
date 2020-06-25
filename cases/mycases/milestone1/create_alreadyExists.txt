@@ -1,0 +1,11 @@
+#
+# Create a user with same username
+create userTest password 10
+create usertest hello 7
+quit
+*
+#
+Created user userTest
+Failed to create user
+Goodbye
+*

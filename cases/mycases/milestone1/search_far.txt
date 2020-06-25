@@ -1,0 +1,51 @@
+# user 1
+search "Seattle WA" "Orlando FL" 0 3 15
+quit
+*
+#
+# expected printouts for user 1
+#
+Itinerary 0: 1 flight(s), 312 minutes
+ID: 704175 Day: 3 Carrier: AS Number: 10 Origin: Seattle WA Dest: Orlando FL Duration: 312 Capacity: 15 Price: 211
+Itinerary 1: 2 flight(s), 315 minutes
+ID: 1020223 Day: 3 Carrier: UA Number: 1637 Origin: Seattle WA Dest: Houston TX Duration: 221 Capacity: 3 Price: 451
+ID: 428838 Day: 3 Carrier: XE Number: 2125 Origin: Houston TX Dest: Orlando FL Duration: 94 Capacity: 10 Price: 470
+Itinerary 2: 2 flight(s), 322 minutes
+ID: 107604 Day: 3 Carrier: CO Number: 1776 Origin: Seattle WA Dest: Houston TX Duration: 228 Capacity: 10 Price: 982
+ID: 428838 Day: 3 Carrier: XE Number: 2125 Origin: Houston TX Dest: Orlando FL Duration: 94 Capacity: 10 Price: 470
+Itinerary 3: 2 flight(s), 322 minutes
+ID: 108520 Day: 3 Carrier: CO Number: 1823 Origin: Seattle WA Dest: Houston TX Duration: 228 Capacity: 9 Price: 274
+ID: 428838 Day: 3 Carrier: XE Number: 2125 Origin: Houston TX Dest: Orlando FL Duration: 94 Capacity: 10 Price: 470
+Itinerary 4: 2 flight(s), 323 minutes
+ID: 1020391 Day: 3 Carrier: UA Number: 1933 Origin: Seattle WA Dest: Houston TX Duration: 229 Capacity: 10 Price: 622
+ID: 428838 Day: 3 Carrier: XE Number: 2125 Origin: Houston TX Dest: Orlando FL Duration: 94 Capacity: 10 Price: 470
+Itinerary 5: 2 flight(s), 326 minutes
+ID: 1020374 Day: 3 Carrier: UA Number: 1921 Origin: Seattle WA Dest: Houston TX Duration: 232 Capacity: 9 Price: 893
+ID: 428838 Day: 3 Carrier: XE Number: 2125 Origin: Houston TX Dest: Orlando FL Duration: 94 Capacity: 10 Price: 470
+Itinerary 6: 2 flight(s), 328 minutes
+ID: 704602 Day: 3 Carrier: AS Number: 726 Origin: Seattle WA Dest: Houston TX Duration: 234 Capacity: 9 Price: 563
+ID: 428838 Day: 3 Carrier: XE Number: 2125 Origin: Houston TX Dest: Orlando FL Duration: 94 Capacity: 10 Price: 470
+Itinerary 7: 2 flight(s), 328 minutes
+ID: 85539 Day: 3 Carrier: CO Number: 166 Origin: Seattle WA Dest: Houston TX Duration: 234 Capacity: 7 Price: 457
+ID: 428838 Day: 3 Carrier: XE Number: 2125 Origin: Houston TX Dest: Orlando FL Duration: 94 Capacity: 10 Price: 470
+Itinerary 8: 2 flight(s), 329 minutes
+ID: 1038743 Day: 3 Carrier: WN Number: 1181 Origin: Seattle WA Dest: Denver CO Duration: 134 Capacity: 18 Price: 396
+ID: 1039741 Day: 3 Carrier: WN Number: 1649 Origin: Denver CO Dest: Orlando FL Duration: 195 Capacity: 8 Price: 413
+Itinerary 9: 2 flight(s), 329 minutes
+ID: 1038744 Day: 3 Carrier: WN Number: 1862 Origin: Seattle WA Dest: Denver CO Duration: 134 Capacity: 1 Price: 964
+ID: 1039741 Day: 3 Carrier: WN Number: 1649 Origin: Denver CO Dest: Orlando FL Duration: 195 Capacity: 8 Price: 413
+Itinerary 10: 2 flight(s), 330 minutes
+ID: 495213 Day: 3 Carrier: UA Number: 1218 Origin: Seattle WA Dest: Denver CO Duration: 135 Capacity: 9 Price: 936
+ID: 1039741 Day: 3 Carrier: WN Number: 1649 Origin: Denver CO Dest: Orlando FL Duration: 195 Capacity: 8 Price: 413
+Itinerary 11: 2 flight(s), 331 minutes
+ID: 1038743 Day: 3 Carrier: WN Number: 1181 Origin: Seattle WA Dest: Denver CO Duration: 134 Capacity: 18 Price: 396
+ID: 874797 Day: 3 Carrier: F9 Number: 682 Origin: Denver CO Dest: Orlando FL Duration: 197 Capacity: 11 Price: 868
+Itinerary 12: 2 flight(s), 331 minutes
+ID: 1038744 Day: 3 Carrier: WN Number: 1862 Origin: Seattle WA Dest: Denver CO Duration: 134 Capacity: 1 Price: 964
+ID: 874797 Day: 3 Carrier: F9 Number: 682 Origin: Denver CO Dest: Orlando FL Duration: 197 Capacity: 11 Price: 868
+Itinerary 13: 1 flight(s), 332 minutes
+ID: 704180 Day: 3 Carrier: AS Number: 16 Origin: Seattle WA Dest: Orlando FL Duration: 332 Capacity: 11 Price: 248
+Itinerary 14: 1 flight(s), 343 minutes
+ID: 60208 Day: 3 Carrier: AS Number: 18 Origin: Seattle WA Dest: Orlando FL Duration: 343 Capacity: 8 Price: 650
+Goodbye
+*
